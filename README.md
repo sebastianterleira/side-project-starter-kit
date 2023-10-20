@@ -1,4 +1,4 @@
-![image](https://i.postimg.cc/bJr7tJPH/started-kit.png)
+![image](https://i.postimg.cc/3JtbghLt/started-kit.png)
 
 # Astro Starter Kit: Basics
 
